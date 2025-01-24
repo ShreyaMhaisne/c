@@ -63,6 +63,7 @@ int main()
                 {
                     setinter[s] = set2[j];
                     s++;
+                    
                 }
             }
         }
@@ -75,6 +76,6 @@ int main()
         }
 
         case 3:
-        
+
     }
 }
